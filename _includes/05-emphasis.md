@@ -1,0 +1,5 @@
+ - *Linux* :penguin:
+ - **Windows** :calling:
+ - __Networking__ :computer:
+ - **Python** :snake:
+ - *GitHub* :octocat:
